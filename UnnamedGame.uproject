@@ -1,6 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{287F998C-4C8C-89CE-2EE3-428C732E6CAF}",
+	"EngineAssociation": "4.18",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UnnamedGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
